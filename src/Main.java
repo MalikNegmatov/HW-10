@@ -17,7 +17,7 @@ public class Main {
 
         System.out.println("Задача №3");
         task3(98);
-        task3(228);
+        task3(328);
         System.out.println();
 
         // Дополнительные задачи блока методы
